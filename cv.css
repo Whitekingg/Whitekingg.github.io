@@ -1,0 +1,155 @@
+*{
+  
+}
+h1{
+ 
+  
+}
+
+body{
+  background-color: white;
+}
+ .main1 {
+   background-color: green;
+   padding: 10px;
+   border-radius: 10px;
+ }
+
+.mainup1 {
+  background-color: deepskyblue;
+  padding: 10px;
+  text-align: center;
+  padding-bottom:25%;
+ border-radius: 10px;
+  padding-bottom: 1px;
+}
+.linfo{
+  font-size: 1%;
+  text-align: left;
+  float:left;
+  padding: 5%;
+  background-color: powderblue;
+  padding-bottom: 0%;
+  width:2%;
+  padding-right:5%;
+  width:20%;
+  border-radius: 10px;
+}
+.mpic{
+  text-align: center;
+  float:left;
+  padding: 5%;
+  background-color: green;
+  padding-bottom: 0%;
+  width:2%;
+  padding-right:10%;
+  padding-left:10%;
+  width:18%;
+  box-sizing: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  transform: perspective(500px);
+  rotatex:(45deg);
+  overflow: hidden;
+  max-height: 10%;
+}
+.trapezium-image{
+  border-radius: 10px;
+}
+.circle-image{
+  width:100px;
+  height: 100px;
+  border-radius: 60%;
+  background-color: white;
+}
+.rinfo{
+  text-align: center;
+  float:right;
+  padding: 5%;
+  background-color: powderblue;
+  padding-bottom: 0%;
+  width:2%;
+  height: 5xp;
+  padding-right:5%;
+  width:20%;
+  font-size: 0.5%;
+  border-radius: 10px;
+}
+.blurred-text{
+  color: white;
+  filter: blur(2px);
+  font-size: 18px;
+}
+.Amid{
+  background-color:main1-background-color;
+  height: 3px;
+}
+.Amida{
+  background-color: brown;
+  height: 3px;
+  float:left;
+  width:1%;
+}
+
+.maindown1 {
+  background-color: deepskyblue;
+  padding: 10px;
+  float:down;
+  border-radius: 10px;}
+.maindown2 {
+  
+  align-content: center;
+  align-items:center; 
+  text-align: center;
+  background-color:lightgray;
+  padding-bottom: 300px;
+  border-radius: 10px; 
+  align-content: center;
+}
+.ldown{
+  text-align: center;
+  padding:40px;
+  float:left; 
+  border-radius: 10px;
+  padding-bottom: 0px;
+  background-color: orange;
+  padding-left: 0%;
+  padding-right: 30%;
+  padding-bottom: 0%;
+  width:10px;
+}
+.bmid{
+  float: left;
+  background-color: lightgray;
+  width:40px;
+  height: 3px;
+}
+.bmid2{
+  float: right;
+  background-color: lightgray;
+  width:40px;
+  height: 3px;
+}
+.abmid{
+  background-color: lightgray;
+  width:50px;
+  height: 3px;
+}
+
+.rdown{
+float:right;
+padding:10px;
+border-radius: 10px; 
+padding-bottom: 40px;  
+  background-color: salmon;
+}
+.mainmid1{
+  background-color:pink;
+  float:down;
+  border-radius: 10px;
+  con
+}
+
+
